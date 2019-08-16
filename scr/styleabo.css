@@ -1,0 +1,52 @@
+body {
+    background-color: rgb(231, 240, 241)
+}
+
+a:link, a:visited {
+    background-color: blueviolet;
+    color: rgb(10, 8, 4);
+    padding: 10px 15px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block
+}
+
+a:hover, a:active {
+    background-color: rgb(60, 243, 179)
+}
+
+h1 {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    text-decoration: underline;
+}
+
+img {
+    width: 300px;
+    height: 300px;
+}
+
+p {
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    text-align: center;
+    margin-left: 15px;
+    margin-top: 40px
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto   
+}
+
+#booksgif {
+    width: 350px;
+    height: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto   
+}
